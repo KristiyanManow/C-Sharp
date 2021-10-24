@@ -1,0 +1,10 @@
+C:\Users\irinaa\source\repos\car\car\bin\Debug\car.exe.config
+C:\Users\irinaa\source\repos\car\car\bin\Debug\car.exe
+C:\Users\irinaa\source\repos\car\car\bin\Debug\car.pdb
+C:\Users\irinaa\source\repos\car\car\obj\Debug\car.csprojAssemblyReference.cache
+C:\Users\irinaa\source\repos\car\car\obj\Debug\car.Form1.resources
+C:\Users\irinaa\source\repos\car\car\obj\Debug\car.Properties.Resources.resources
+C:\Users\irinaa\source\repos\car\car\obj\Debug\car.csproj.GenerateResource.cache
+C:\Users\irinaa\source\repos\car\car\obj\Debug\car.csproj.CoreCompileInputs.cache
+C:\Users\irinaa\source\repos\car\car\obj\Debug\car.exe
+C:\Users\irinaa\source\repos\car\car\obj\Debug\car.pdb
